@@ -1,0 +1,106 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/crossbow_standby"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ -90, 0, -60 ],
+            "translation": [ 2, 0.1, -3 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -90, 0, 30 ],
+            "translation": [ 2, 0.1, -3 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -90, 0, -55 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ -90, 0, 35 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        }
+    },
+    "overrides": [
+        {"predicate": {"pulling": 1}, "model": "item/crossbow_pulling_0"},
+        {"predicate": {"pulling": 1, "pull": 0.58}, "model": "item/crossbow_pulling_1"},
+        {"predicate": {"pulling": 1, "pull": 1.0}, "model": "item/crossbow_pulling_2"},
+        {"predicate": {"charged": 1}, "model": "item/crossbow_arrow"},
+        {"predicate": {"charged": 1, "firework": 1}, "model": "item/crossbow_firework"},
+		{"predicate": {"custom_model_data":1}, "model":"item/weapons/uzi"},
+		{"predicate": {"custom_model_data":11}, "model":"item/weapons/uziaiming"},
+		{"predicate": {"custom_model_data":16}, "model":"item/weapons/uzisprinting"},
+		
+		{"predicate": {"custom_model_data":21}, "model":"item/weapons/aug"},
+		{"predicate": {"custom_model_data":31}, "model":"item/weapons/augaiming"},
+		{"predicate": {"custom_model_data":36}, "model":"item/weapons/augsprinting"},
+		
+		{"predicate": {"custom_model_data":81}, "model":"item/weapons/origin12"},
+		{"predicate": {"custom_model_data":91}, "model":"item/weapons/origin12aiming"},
+		{"predicate": {"custom_model_data":96}, "model":"item/weapons/origin12sprinting"},
+		
+		{"predicate": {"custom_model_data":101}, "model":"item/weapons/rpg7"},
+		{"predicate": {"custom_model_data":111}, "model":"item/weapons/rpg7aiming"},
+		{"predicate": {"custom_model_data":116}, "model":"item/weapons/rpg7sprinting"},
+		
+		{"predicate": {"custom_model_data":121}, "model":"item/weapons/ak47"},
+		{"predicate": {"custom_model_data":131}, "model":"item/weapons/ak47aiming"},
+		{"predicate": {"custom_model_data":136}, "model":"item/weapons/ak47sprinting"},
+		
+		{"predicate": {"custom_model_data":141}, "model":"item/weapons/fnfal"},
+		{"predicate": {"custom_model_data":151}, "model":"item/weapons/fnfalaiming"},
+		{"predicate": {"custom_model_data":156}, "model":"item/weapons/fnfalsprinting"},
+		
+		{"predicate": {"custom_model_data":161}, "model":"item/weapons/m4a1"},
+		{"predicate": {"custom_model_data":171}, "model":"item/weapons/m4a1aiming"},
+		{"predicate": {"custom_model_data":176}, "model":"item/weapons/m4a1sprinting"},
+		
+		{"predicate": {"custom_model_data":181}, "model":"item/weapons/coltpython"},
+		{"predicate": {"custom_model_data":191}, "model":"item/weapons/coltpythonaiming"},
+		{"predicate": {"custom_model_data":196}, "model":"item/weapons/coltpythonsprinting"},
+		
+		{"predicate": {"custom_model_data":201}, "model":"item/weapons/deserteagle"},
+		{"predicate": {"custom_model_data":211}, "model":"item/weapons/deserteagleaiming"},
+		{"predicate": {"custom_model_data":216}, "model":"item/weapons/deserteaglesprinting"},
+		
+		{"predicate": {"custom_model_data":221}, "model":"item/weapons/kar98k"},
+		{"predicate": {"custom_model_data":231}, "model":"item/weapons/kar98kaiming"},
+		{"predicate": {"custom_model_data":236}, "model":"item/weapons/kar98ksprinting"},
+		
+		{"predicate": {"custom_model_data":241}, "model":"item/weapons/mg34"},
+		{"predicate": {"custom_model_data":251}, "model":"item/weapons/mg34aiming"},
+		{"predicate": {"custom_model_data":256}, "model":"item/weapons/mg34sprinting"},
+		
+		{"predicate": {"custom_model_data":261}, "model":"item/weapons/flashbang"},
+		
+		{"predicate": {"custom_model_data":271}, "model":"item/weapons/semtex"},
+		
+		{"predicate": {"custom_model_data":281}, "model":"item/weapons/grenade"},
+		
+		{"predicate": {"custom_model_data":291}, "model":"item/weapons/clusterbomb"},
+		
+		{"predicate": {"custom_model_data":301}, "model":"item/weapons/airstrike"},
+		
+		{"predicate": {"custom_model_data":311}, "model":"item/weapons/famasg2"},
+		{"predicate": {"custom_model_data":321}, "model":"item/weapons/famasg2aiming"},
+		{"predicate": {"custom_model_data":326}, "model":"item/weapons/famasg2sprinting"},
+		{"predicate": {"custom_model_data":331}, "model":"item/weapons/famasg2reloading"},
+		
+		{"predicate": {"custom_model_data":341}, "model":"item/weapons/ammo_rocket"},
+		
+		{"predicate": {"custom_model_data":351}, "model":"item/weapons/combatknife"},
+
+		{"predicate": {"custom_model_data":361}, "model":"item/weapons/ax50"},
+		{"predicate": {"custom_model_data":371}, "model":"item/weapons/ax50sprinting"},
+
+		{"predicate": {"custom_model_data":381}, "model":"item/weapons/dp12"},
+		{"predicate": {"custom_model_data":391}, "model":"item/weapons/dp12aiming"},
+		{"predicate": {"custom_model_data":396}, "model":"item/weapons/dp12sprinting"},
+		
+		{"predicate": {"custom_model_data":9999}, "model":"item/weapons/reticle_pmii"}
+	]
+}
