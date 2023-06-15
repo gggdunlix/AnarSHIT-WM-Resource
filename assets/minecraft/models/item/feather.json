@@ -36,9 +36,9 @@
 		{"predicate": {"custom_model_data":191}, "model":"item/weapons/coltpythonaiming"},
 		{"predicate": {"custom_model_data":196}, "model":"item/weapons/coltpythonsprinting"},
 		
-		{"predicate": {"custom_model_data":201}, "model":"item/weapons/deserteagle"},
-		{"predicate": {"custom_model_data":211}, "model":"item/weapons/deserteagleaiming"},
-		{"predicate": {"custom_model_data":216}, "model":"item/weapons/deserteaglesprinting"},
+		{"predicate": {"custom_model_data":201}, "model":"item/weapons/d-50"},
+		{"predicate": {"custom_model_data":211}, "model":"item/weapons/d-50aiming"},
+		{"predicate": {"custom_model_data":216}, "model":"item/weapons/d-50sprinting"},
 		
 		{"predicate": {"custom_model_data":221}, "model":"item/weapons/kar98k"},
 		{"predicate": {"custom_model_data":231}, "model":"item/weapons/kar98kaiming"},

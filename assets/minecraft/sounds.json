@@ -60,9 +60,17 @@
     "category": "master",
 	  "sounds": [ "scope/end_scope" ]
   },
-  "shoot.50gs": {
+  "shoot.d-50": {
     "category": "master",
-	  "sounds": [ "shoot/50gs" ]
+	  "sounds": [ "shoot/handgun/d-50/shoot" ]
+  },
+  "reload.d-50": {
+    "category": "master",
+	  "sounds": [ "shoot/handgun/d-50/reload" ]
+  },
+  "fullreload.d-50": {
+    "category": "master",
+	  "sounds": [ "shoot/handgun/d-50/fullreload" ]
   },
   "shoot.357magnum": {
     "category": "master",
