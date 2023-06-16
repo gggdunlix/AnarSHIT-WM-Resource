@@ -75,5 +75,8 @@
 		{"predicate": {"custom_model_data":396}, "model":"item/weapons/dp12sprinting"},
 		
 		{"predicate": {"custom_model_data":9999}, "model":"item/weapons/reticle_pmii"}
+		
+		
+		{"predicate": {"custom_model_data":5001}, "model":"item/ammo/.50actionexpress"},
 	]
 }

@@ -1,5 +1,5 @@
 {
-    "parent": "item/weapons/deserteagle",
+    "parent": "item/weapons/d-50",
     "display": {
 		"firstperson_righthand": {
 			"rotation": [0, -90, 0],
