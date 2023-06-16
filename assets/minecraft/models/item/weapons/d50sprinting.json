@@ -1,5 +1,5 @@
 {
-    "parent": "item/weapons/d-50",
+    "parent": "item/weapons/d50",
     "display": {
 		"firstperson_righthand": {
 			"rotation": [65, -90, 0],

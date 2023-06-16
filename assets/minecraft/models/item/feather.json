@@ -36,9 +36,9 @@
 		{"predicate": {"custom_model_data":191}, "model":"item/weapons/coltpythonaiming"},
 		{"predicate": {"custom_model_data":196}, "model":"item/weapons/coltpythonsprinting"},
 		
-		{"predicate": {"custom_model_data":201}, "model":"item/weapons/d-50"},
-		{"predicate": {"custom_model_data":211}, "model":"item/weapons/d-50aiming"},
-		{"predicate": {"custom_model_data":216}, "model":"item/weapons/d-50sprinting"},
+		{"predicate": {"custom_model_data":201}, "model":"item/weapons/d50"},
+		{"predicate": {"custom_model_data":211}, "model":"item/weapons/d50aiming"},
+		{"predicate": {"custom_model_data":216}, "model":"item/weapons/d50sprinting"},
 		
 		{"predicate": {"custom_model_data":221}, "model":"item/weapons/kar98k"},
 		{"predicate": {"custom_model_data":231}, "model":"item/weapons/kar98kaiming"},
@@ -77,6 +77,6 @@
 		{"predicate": {"custom_model_data":9999}, "model":"item/weapons/reticle_pmii"}
 		
 		
-		{"predicate": {"custom_model_data":5001}, "model":"item/ammo/.50actionexpress"},
+		{"predicate": {"custom_model_data":5001}, "model":"item/ammo/50actionexpress"},
 	]
 }
