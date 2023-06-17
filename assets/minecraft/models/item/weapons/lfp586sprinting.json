@@ -1,5 +1,5 @@
 {
-    "parent": "item/weapons/coltpython",
+    "parent": "item/weapons/lfp586",
     "display": {
 		"firstperson_righthand": {
 			"rotation": [0, -10, 15],
