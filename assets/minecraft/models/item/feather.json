@@ -32,9 +32,9 @@
 		{"predicate": {"custom_model_data":171}, "model":"item/weapons/m4a1aiming"},
 		{"predicate": {"custom_model_data":176}, "model":"item/weapons/m4a1sprinting"},
 		
-		{"predicate": {"custom_model_data":181}, "model":"item/weapons/coltpython"},
-		{"predicate": {"custom_model_data":191}, "model":"item/weapons/coltpythonaiming"},
-		{"predicate": {"custom_model_data":196}, "model":"item/weapons/coltpythonsprinting"},
+		{"predicate": {"custom_model_data":181}, "model":"item/weapons/lfp586"},
+		{"predicate": {"custom_model_data":191}, "model":"item/weapons/lfp586aiming"},
+		{"predicate": {"custom_model_data":196}, "model":"item/weapons/lfp586sprinting"},
 		
 		{"predicate": {"custom_model_data":201}, "model":"item/weapons/d50"},
 		{"predicate": {"custom_model_data":211}, "model":"item/weapons/d50aiming"},

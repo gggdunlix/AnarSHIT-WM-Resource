@@ -76,6 +76,18 @@
     "category": "master",
 	  "sounds": [ "shoot/357magnum" ]
   },
+  "shoot.lfp586": {
+    "category": "master",
+	  "sounds": [ "shoot/handgun/lfp586/shoot" ]
+  },
+  "load.lfp586": {
+    "category": "master",
+	  "sounds": [ "shoot/handgun/lfp586/load" ]
+  },
+  "close.lfp586": {
+    "category": "master",
+	  "sounds": [ "shoot/handgun/lfp586/close" ]
+  },
   "shoot.ak47": {
     "category": "master",
 	  "sounds": [ "shoot/ak47" ]
