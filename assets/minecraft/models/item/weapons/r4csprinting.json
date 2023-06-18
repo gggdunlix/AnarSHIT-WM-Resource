@@ -1,5 +1,5 @@
 {
-    "parent": "item/weapons/m4a1",
+    "parent": "item/weapons/r4c",
     "display": {
 		"firstperson_righthand": {
 			"rotation": [0, -10, 15],

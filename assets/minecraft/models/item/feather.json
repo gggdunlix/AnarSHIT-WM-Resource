@@ -28,9 +28,9 @@
 		{"predicate": {"custom_model_data":151}, "model":"item/weapons/fnfalaiming"},
 		{"predicate": {"custom_model_data":156}, "model":"item/weapons/fnfalsprinting"},
 		
-		{"predicate": {"custom_model_data":161}, "model":"item/weapons/m4a1"},
-		{"predicate": {"custom_model_data":171}, "model":"item/weapons/m4a1aiming"},
-		{"predicate": {"custom_model_data":176}, "model":"item/weapons/m4a1sprinting"},
+		{"predicate": {"custom_model_data":161}, "model":"item/weapons/r4c"},
+		{"predicate": {"custom_model_data":171}, "model":"item/weapons/r4caiming"},
+		{"predicate": {"custom_model_data":176}, "model":"item/weapons/r4csprinting"},
 		
 		{"predicate": {"custom_model_data":181}, "model":"item/weapons/lfp586"},
 		{"predicate": {"custom_model_data":191}, "model":"item/weapons/lfp586aiming"},
@@ -78,7 +78,8 @@
 		
 		
 		{"predicate": {"custom_model_data":5001}, "model":"item/ammo/50actionexpress"},
-		{"predicate": {"custom_model_data":5357}, "model":"item/ammo/357magnum"}
+		{"predicate": {"custom_model_data":5357}, "model":"item/ammo/357magnum"},
+		{"predicate": {"custom_model_data":5556}, "model":"item/ammo/556nato"}
 	]
 	
 }

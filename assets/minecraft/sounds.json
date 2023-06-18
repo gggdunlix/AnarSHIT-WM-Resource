@@ -72,9 +72,21 @@
     "category": "master",
 	  "sounds": [ "shoot/handgun/d-50/fullreload" ]
   },
-  "shoot.357magnum": {
+  "reload.r4c": {
     "category": "master",
-	  "sounds": [ "shoot/357magnum" ]
+	  "sounds": [ "shoot/assaultrifle/r4c/reload" ]
+  },
+  "shoot.r4c": {
+    "category": "master",
+	  "sounds": [ "shoot/assaultrifle/r4c/shoot" ]
+  },
+  "prime.r4c": {
+    "category": "master",
+	  "sounds": [ "shoot/assaultrifle/r4c/prime" ]
+  },
+  "fullreload.r4c": {
+    "category": "master",
+	  "sounds": [ "shoot/assaultrifle/r4c/fullreload" ]
   },
   "shoot.lfp586": {
     "category": "master",
