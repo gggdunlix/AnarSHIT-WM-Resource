@@ -100,6 +100,18 @@
     "category": "master",
 	  "sounds": [ "shoot/handgun/lfp586/close" ]
   },
+  "shoot.m120crem": {
+    "category": "master",
+	  "sounds": [ "shoot/explosive/m120crem/shoot" ]
+  },
+  "reload.m120crem": {
+    "category": "master",
+	  "sounds": [ "shoot/explosive/m120crem/reload" ]
+  },
+  "explode.m120crem": {
+    "category": "master",
+	  "sounds": [ "shoot/explosive/m120crem/explode" ]
+  },
   "shoot.ak47": {
     "category": "master",
 	  "sounds": [ "shoot/ak47" ]

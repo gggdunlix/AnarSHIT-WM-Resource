@@ -39,6 +39,10 @@
 		{"predicate": {"custom_model_data":201}, "model":"item/weapons/d50"},
 		{"predicate": {"custom_model_data":211}, "model":"item/weapons/d50aiming"},
 		{"predicate": {"custom_model_data":216}, "model":"item/weapons/d50sprinting"},
+
+		{"predicate": {"custom_model_data":2120}, "model":"item/weapons/m120crem"},
+		{"predicate": {"custom_model_data":2121}, "model":"item/weapons/m120cremaiming"},
+		{"predicate": {"custom_model_data":2122}, "model":"item/weapons/m120cremsprinting"},
 		
 		{"predicate": {"custom_model_data":221}, "model":"item/weapons/kar98k"},
 		{"predicate": {"custom_model_data":231}, "model":"item/weapons/kar98kaiming"},
@@ -79,7 +83,8 @@
 		
 		{"predicate": {"custom_model_data":5001}, "model":"item/ammo/50actionexpress"},
 		{"predicate": {"custom_model_data":5357}, "model":"item/ammo/357magnum"},
-		{"predicate": {"custom_model_data":5556}, "model":"item/ammo/556nato"}
+		{"predicate": {"custom_model_data":5556}, "model":"item/ammo/556nato"},
+		{"predicate": {"custom_model_data":5120}, "model":"item/ammo/m120cremround"}
 	]
 	
 }
